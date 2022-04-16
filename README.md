@@ -1,0 +1,1 @@
+# c-we-can-declare-variable-in-scope
